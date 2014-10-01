@@ -1,0 +1,11 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+.meta-form label {
+
+}
+
+.meta-form input {
+  display: block;
+  width:375px;
+  height: 25px;
+}

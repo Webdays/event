@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event\n"
+"POT-Creation-Date: 2014-07-31 18:18-0000\n"
+"PO-Revision-Date: 2014-07-31 18:19-0000\n"
+"Last-Translator: Cherif BOUCHELAGHEM <cherif.bouchelaghem@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_x;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /home/cherif/server/startupchallengedz/wp-content/"
+"plugins/event\n"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/class-event-admin.php:196
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/class-event-admin.php:197
+msgid "Menu Text"
+msgstr "Texte du Menu "
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/class-event-admin.php:223
+msgid "Settings"
+msgstr "Paramétres"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/infos.php:2
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/personal-infos.php:2
+msgid "firstname"
+msgstr "Prénom"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/infos.php:6
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/personal-infos.php:4
+msgid "lastname"
+msgstr "Nom"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/infos.php:9
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/personal-infos.php:7
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-speaker-meta-box-factory.php:112
+msgid "website"
+msgstr "Site web"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/infos.php:14
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/biography.php:2
+msgid "Biography"
+msgstr "Biographie"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/infos.php:19
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/social-networks.php:1
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/infos.php:21
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/social-networks.php:3
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/infos.php:23
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/views/speaker/meta-boxes/social-networks.php:5
+msgid "Google+"
+msgstr "Google+"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-event-page-template.php:15
+msgid "List Events Page"
+msgstr "Page de la liste des évenements"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-talk-meta-box-factoy.php:15
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:102
+msgid "Speakers"
+msgstr "Speakers"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-speaker-meta-box-factory.php:18
+msgid "Speaker information"
+msgstr "Informations du speaker"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-speaker-meta-box-factory.php:110
+msgid "Firstname"
+msgstr "Prénom"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-speaker-meta-box-factory.php:111
+msgid "Lastname"
+msgstr "Nom"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-speaker-meta-box-factory.php:113
+msgid "facebook"
+msgstr "Facebook"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-speaker-meta-box-factory.php:114
+msgid "twitter"
+msgstr "Twitter"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/admin/includes/classes/class-location-meta-box.php:13
+msgid "Location information"
+msgstr "Description du lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:26
+msgid "Talks"
+msgstr "Présentations"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:27
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:28
+msgid "Talk"
+msgstr "Présentation"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:29
+msgid "Parent Talk:"
+msgstr "Présentation parente:"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:30
+msgid "All Talks"
+msgstr "Toutes les présentations"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:31
+msgid "View Talk"
+msgstr "Afficher la présentation"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:32
+msgid "Add New Talk"
+msgstr "Ajouter une nouvelle présentation"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:33
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:71
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:109
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:148
+msgid "Add New"
+msgstr "Ajouter"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:34
+msgid "Edit Talk"
+msgstr "Modifier la présentation"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:35
+msgid "Update Talk"
+msgstr "Modifier la présentation"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:36
+msgid "Search Talk"
+msgstr "Chercher une présentaion"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:37
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:75
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:113
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:152
+msgid "Not found"
+msgstr "Non trouver"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:38
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:76
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:114
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:153
+msgid "Not found in Trash"
+msgstr "Non trouvé dans la corbeille"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:41
+msgid "talk"
+msgstr "présentation"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:42
+msgid "Talk Description"
+msgstr "Description de la présentation"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:64
+msgid "Locations"
+msgstr "Lieux"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:65
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:66
+msgid "Location"
+msgstr "Lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:67
+msgid "Parent location:"
+msgstr "Lieu parent"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:68
+msgid "All Locations"
+msgstr "Touts les lieux"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:69
+msgid "View Location"
+msgstr "Afficher le lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:70
+msgid "Add New Location"
+msgstr "Ajouter un lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:72
+msgid "Edit Location"
+msgstr "Modifier le lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:73
+msgid "Update Location"
+msgstr "Modifier le lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:74
+msgid "Search Location"
+msgstr "Chercher un lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:79
+msgid "location"
+msgstr "lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:80
+msgid "Location Description"
+msgstr "Description du lieu"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:103
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:104
+msgid "Speaker"
+msgstr "Speaker"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:105
+msgid "Parent Item:"
+msgstr "Item parent"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:106
+msgid "All Speakers"
+msgstr "Touts les speakers"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:107
+msgid "View Speaker"
+msgstr "Afficher le speaker"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:108
+msgid "Add New Speaker"
+msgstr "Ajouter un nouvel speaker"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:110
+msgid "Edit Speaker"
+msgstr "Modifier le speaker"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:111
+msgid "Update Speaker"
+msgstr "Modifier le Speaker"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:112
+msgid "Search Speaker"
+msgstr "Chercher un speaker"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:117
+msgid "speaker"
+msgstr "Speaker"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:118
+msgid "Event speaker"
+msgstr "Les speakers de l'évenement"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:141
+msgid "Events"
+msgstr "Evenements"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:142
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:143
+msgid "Event"
+msgstr "Evenement"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:144
+msgid "Parent Event:"
+msgstr "Evenement parent"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:145
+msgid "All Events"
+msgstr "Touts les évenements"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:146
+msgid "View Event"
+msgstr "Afficher l'évenement"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:147
+msgid "Add New Event"
+msgstr "Ajouter un nouvel évenement"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:149
+msgid "Edit Event"
+msgstr "Modifier un évenement"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:150
+msgid "Update Event"
+msgstr "Modifier un évenement"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:151
+msgid "Search Event"
+msgstr "Chercher un évenement"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:156
+msgid "event"
+msgstr "évenement"
+
+#: /home/cherif/server/startupchallengedz/wp-content/plugins/event/includes/classes/class-cpt-factory.php:157
+msgid "Event custom post type"
+msgstr "Type de contenu personalisé \"Evenement \""
